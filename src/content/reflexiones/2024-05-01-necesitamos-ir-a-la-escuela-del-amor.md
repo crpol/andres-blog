@@ -1,7 +1,7 @@
 ---
-titulo: "Necesitamos Ir A La "Escuela Del Amor""
+titulo: "Necesitamos Ir A La 'Escuela Del Amor"
 fecha: "2024-05-01"
-tema: "Necesitamos Ir A La "Escuela Del Amor""
+tema: "Necesitamos Ir A La 'Escuela Del Amor"
 autor: "Hermandad del Sagrado Corazón de Jesús"
 destacado: false
 ---

@@ -1,7 +1,7 @@
 ---
-titulo: ""Aprendan De Mí Que Soy Pobre Y Humilde"
+titulo: "Aprendan De Mí Que Soy Pobre Y Humilde"
 fecha: "2024-04-25"
-tema: ""Aprendan De Mí Que Soy Pobre Y Humilde"
+tema: "Aprendan De Mí Que Soy Pobre Y Humilde"
 autor: "Hermandad del Sagrado Corazón de Jesús"
 destacado: false
 ---

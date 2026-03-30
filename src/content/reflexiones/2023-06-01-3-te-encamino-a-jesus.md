@@ -1,7 +1,7 @@
 ---
-titulo: ""Te Encamino A Jesús""
+titulo: "Te Encamino A Jesús"
 fecha: "2023-06-01"
-tema: ""Te Encamino A Jesús""
+tema: "Te Encamino A Jesús"
 autor: "Hermandad del Sagrado Corazón de Jesús"
 destacado: false
 ---

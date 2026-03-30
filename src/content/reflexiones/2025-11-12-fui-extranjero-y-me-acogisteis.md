@@ -1,7 +1,7 @@
 ---
-titulo: ""Fuí Extranjero Y Me Acogisteis ""
+titulo: "Fuí Extranjero Y Me Acogisteis"
 fecha: "2025-11-12"
-tema: ""Fuí Extranjero Y Me Acogisteis ""
+tema: "Fuí Extranjero Y Me Acogisteis"
 autor: "Hermandad del Sagrado Corazón de Jesús"
 destacado: false
 ---

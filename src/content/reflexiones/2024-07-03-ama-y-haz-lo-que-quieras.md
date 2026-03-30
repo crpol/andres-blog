@@ -1,7 +1,7 @@
 ---
-titulo: ""Ama Y Haz Lo Que Quieras"
+titulo: "Ama Y Haz Lo Que Quieras"
 fecha: "2024-07-03"
-tema: ""Ama Y Haz Lo Que Quieras"
+tema: "Ama Y Haz Lo Que Quieras"
 autor: "Hermandad del Sagrado Corazón de Jesús"
 destacado: false
 ---

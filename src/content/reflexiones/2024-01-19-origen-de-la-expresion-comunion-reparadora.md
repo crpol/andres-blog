@@ -1,7 +1,7 @@
 ---
-titulo: "Origen De La Expresión "Comunión Reparadora""
+titulo: "Origen De La Expresión 'Comunión Reparadora"
 fecha: "2024-01-19"
-tema: "Origen De La Expresión "Comunión Reparadora""
+tema: "Origen De La Expresión 'Comunión Reparadora"
 autor: "Hermandad del Sagrado Corazón de Jesús"
 destacado: false
 ---
