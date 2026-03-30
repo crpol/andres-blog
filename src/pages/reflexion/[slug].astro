@@ -32,6 +32,12 @@ function formatFecha(fecha: string): string {
 
     <span class="ornament">❦</span>
 
+    {reflexion.data.imagen && (
+      <figure class="reflexion__imagen">
+        <img src={reflexion.data.imagen} alt={reflexion.data.tema || reflexion.data.titulo} />
+      </figure>
+    )}
+
     <div class="reflexion__contenido">
       <Content />
     </div>
