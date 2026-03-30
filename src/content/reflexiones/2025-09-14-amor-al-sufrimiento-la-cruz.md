@@ -1,0 +1,13 @@
+---
+titulo: "Amor Al Sufrimiento, La Cruz"
+fecha: "2025-09-14"
+tema: "Amor Al Sufrimiento, La Cruz"
+autor: "Hermandad del Sagrado Corazón de Jesús"
+destacado: false
+---
+
+AMOR AL SUFRIMIENTO, LA CRUZ.
+
+La cruz es el camino para que te encuentres conmigo, la cruz es el peldaño de oro que te acerca al cielo, la cruz purifica tu corazón y te libera de ataduras  y esclavitudes.
+LA CRUZ ES, POR EXCELENCIA, EL SÍMBOLO DEL CRISTIANO, PORQUE EN ELLA CRISTO NOS REDIMIÓ. SATANÁS, EL ORGULLOSO Y SOBERBIO, ODIA LA CRUZ PORQUE JESUCRISTO, HUMILDE Y OBEDIENTE, LO VENCIÓ EN EN ELLA " HUMILLÁNDOßE A SÍ MISMO, OBEDECIENDO HASTA LA MUERTE Y MUERTE DE CRUZ ". Y ASÍ TRANSFORMÓ LA CRUZ EN VICTORIA: " .....POR LO CUAL DIOS LE ENSALZÓ Y LE DIO UN NOMBRE QUE ESTÁ SOBRE TODO NOMBRE " ( FILIPENSES 2,8_9 )
+POR LO TANTO, NO TENGAS MIEDO EN DESCUBRIR EL MISTERIO DE AMOR Y EL RAUDAL DE BENDICIONES QUE TRAE CONSIGO EL SUFRIMIENTO.

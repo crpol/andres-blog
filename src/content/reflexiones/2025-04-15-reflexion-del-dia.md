@@ -1,0 +1,12 @@
+---
+titulo: "Reflexión Del Día"
+fecha: "2025-04-15"
+tema: "Reflexión Del Día"
+autor: "Hermandad del Sagrado Corazón de Jesús"
+destacado: false
+---
+
+EL PAÍS ESTÁ DE LUTO,NO ES TIEMPO PARA DESENFRENOS , SINO PARA LA ORACIÓN.
+QUE ESTOS DÍAS SEAN DE VERDADERA REFLEXIÓN,Y ENCUENTRO CON JESÚS.LA SEMANA SANTA NOS LLAMA Y MOTIVA AL SILENCIO, A LA PAUSA Y A LA FE.
+
+SAGRADO CORAZÓN DE JESÚS EN TI CONFÍO.

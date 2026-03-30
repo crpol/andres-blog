@@ -1,0 +1,9 @@
+---
+titulo: "Reflexión Del Día"
+fecha: "2025-12-06"
+tema: "Reflexión Del Día"
+autor: "Hermandad del Sagrado Corazón de Jesús"
+destacado: false
+---
+
+LA HERMANDAD ASUME NUEVOS RETOS Y NUEVOS COMPROMISOS EN UNA SOCIEDAD QUE CADA DIA TE EXIGE MÁS.RENOVAR NUE STRO ENTUSIASMO Y TRABAJAR COMO LO HICIERON LOS PRIMEROS FUNDADORES, CON VALOR , ÐECISIÓN Y SIN MIEÐO.

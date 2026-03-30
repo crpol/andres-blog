@@ -1,0 +1,16 @@
+---
+titulo: "La Envidia"
+fecha: "2025-10-05"
+tema: "La Envidia"
+autor: "Hermandad del Sagrado Corazón de Jesús"
+destacado: false
+---
+
+LA ENVIDIA  
+"la muerte se introdujo en el mundo por la envidia del diablo ". Sb2,24.
+" sabía ( pilato  ) que ( los Fariseos y los Escribas  ) habían entregado ( a Jesús  ) por envidia " . Mt 27,18.
+LA ENVIDIA ES UNA PESTE UNIVERSAL QUE DAÑA EL MUNDO, ES HIJA DE LA SOBERBIA Y EN DONDE ESTÁ LA UNA SE ENCUENTRA LA OTRA,PUESTO QUE LA HIJA ES INSEPARABLE DE LA MADRE.LA ENVIDIA ES UN CORROSIVO QUE LLEGA AL ALMA Y A VECES DE UNA MANERA INCURABLE.LA ENVIDIA ES HORRIBLE Y DIMANA DE LA SOBERBIA, COMO EL AGUA DE LA FUENTE Y COMO EL CALOR DEL FUEGO.
+LA ENVIDIA SE SABE TAMBIÉN DISFRAZAR CON UNA HIPOCRESÍA TRAIDORA, SIENDO INCONTABLES LOS DAÑOS ESPIRITUALES QUE HACE.
+
+ANDRÉS.....CONSAGRADO AL CORAZÓN DE JESÚS.
+(Continuará  )

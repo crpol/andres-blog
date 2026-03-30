@@ -1,0 +1,11 @@
+---
+titulo: "Reflexión Del Día"
+fecha: "2025-12-01"
+tema: "Reflexión Del Día"
+autor: "Hermandad del Sagrado Corazón de Jesús"
+destacado: false
+---
+
+TIEMPO DE ESPERANZA ,DE DAR GRACIAS , DE SER AGRADECIDO POR TODO LO RECIBIDO.
+APRENDER A MANEJAR Y RECHAZAR LA SOBERBIA,CONOCER Y APLICAR LA TOLERANCIA , LA VIDA ES UN PASAR .
+SEAMOS HUMILDE IMITEMOS LA GRANDEZA DE JESÚS.

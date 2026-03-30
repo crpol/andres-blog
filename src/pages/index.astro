@@ -2,8 +2,19 @@
 import Base from '../layouts/Base.astro';
 import { getCollection } from 'astro:content';
 
-const reflexiones = (await getCollection('reflexiones'))
+const todas = (await getCollection('reflexiones'))
   .sort((a, b) => new Date(b.data.fecha).getTime() - new Date(a.data.fecha).getTime());
+
+// Group by year
+const porAnio: Record<string, typeof todas> = {};
+for (const r of todas) {
+  const anio = r.data.fecha.slice(0, 4);
+  if (!porAnio[anio]) porAnio[anio] = [];
+  porAnio[anio].push(r);
+}
+
+const anios = Object.keys(porAnio).sort((a, b) => Number(b) - Number(a));
+const anioActual = new Date().getFullYear().toString();
 
 function formatFecha(fecha: string): string {
   return new Date(fecha + 'T12:00:00').toLocaleDateString('es-ES', {
@@ -15,21 +26,53 @@ function formatFecha(fecha: string): string {
 }
 
 function extracto(body: string): string {
-  const clean = body.replace(/^---[\s\S]*?---/, '').trim();
+  const clean = body?.replace(/^---[\s\S]*?---/, '').trim() || '';
   return clean.slice(0, 150).trim() + '…';
 }
 ---
 
 <Base>
-  <ul class="reflexiones-list">
-    {reflexiones.map((r) => (
-      <li class="reflexion-card">
-        <a href={`/reflexion/${r.id}`}>
-          <p class="reflexion-card__tema">{r.data.tema || r.data.titulo}</p>
-          <p class="reflexion-card__fecha">{formatFecha(r.data.fecha)}</p>
-          <p class="reflexion-card__extracto">{extracto(r.body || '')}</p>
-        </a>
-      </li>
-    ))}
-  </ul>
+  {anios.map((anio) => {
+    const esActual = anio === anioActual;
+    const reflexiones = porAnio[anio];
+    return (
+      <section class="anio-section">
+        {esActual ? (
+          <>
+            <h2 class="anio-titulo anio-titulo--actual">{anio}</h2>
+            <ul class="reflexiones-list">
+              {reflexiones.map((r) => (
+                <li class="reflexion-card">
+                  <a href={`/reflexion/${r.id}`}>
+                    <p class="reflexion-card__tema">{r.data.tema || r.data.titulo}</p>
+                    <p class="reflexion-card__fecha">{formatFecha(r.data.fecha)}</p>
+                    <p class="reflexion-card__extracto">{extracto(r.body || '')}</p>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </>
+        ) : (
+          <details class="anio-accordion">
+            <summary class="anio-titulo anio-titulo--pasado">
+              <span class="anio-label">{anio}</span>
+              <span class="anio-count">{reflexiones.length} reflexiones</span>
+              <span class="anio-arrow">&#9654;</span>
+            </summary>
+            <ul class="reflexiones-list">
+              {reflexiones.map((r) => (
+                <li class="reflexion-card">
+                  <a href={`/reflexion/${r.id}`}>
+                    <p class="reflexion-card__tema">{r.data.tema || r.data.titulo}</p>
+                    <p class="reflexion-card__fecha">{formatFecha(r.data.fecha)}</p>
+                    <p class="reflexion-card__extracto">{extracto(r.body || '')}</p>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </details>
+        )}
+      </section>
+    );
+  })}
 </Base>

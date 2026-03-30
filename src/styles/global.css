@@ -111,6 +111,77 @@ main {
   width: 100%;
 }
 
+/* --- Year sections --- */
+
+.anio-section {
+  margin-bottom: var(--space-lg);
+}
+
+.anio-titulo {
+  font-family: var(--font-display);
+  color: var(--color-accent);
+  margin-bottom: var(--space-md);
+}
+
+.anio-titulo--actual {
+  font-size: 1.6rem;
+  font-weight: 600;
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: var(--space-xs);
+}
+
+.anio-accordion {
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+}
+
+.anio-titulo--pasado {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  padding: var(--space-sm) var(--space-md);
+  cursor: pointer;
+  list-style: none;
+  transition: background-color 0.2s ease;
+  user-select: none;
+}
+
+.anio-titulo--pasado:hover {
+  background-color: var(--color-bg-alt);
+}
+
+.anio-titulo--pasado::-webkit-details-marker {
+  display: none;
+}
+
+.anio-label {
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: var(--color-accent);
+}
+
+.anio-count {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  letter-spacing: 0.05em;
+}
+
+.anio-arrow {
+  margin-left: auto;
+  font-size: 0.8rem;
+  color: var(--color-accent-light);
+  transition: transform 0.3s ease;
+}
+
+.anio-accordion[open] .anio-arrow {
+  transform: rotate(90deg);
+}
+
+.anio-accordion .reflexiones-list {
+  padding: 0 var(--space-sm) var(--space-sm);
+}
+
 /* --- Reflexion card (index page) --- */
 
 .reflexiones-list {

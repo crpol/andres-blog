@@ -1,0 +1,11 @@
+---
+titulo: "Reflexión Del Día"
+fecha: "2025-07-14"
+tema: "Reflexión Del Día"
+autor: "Hermandad del Sagrado Corazón de Jesús"
+destacado: false
+---
+
+LA HERMANDAD DEL SAGRADO CORAZÓN DE JESÚS NOS ENSEÑA A CONFIAR EN JESÚS COMO NUESTRO PAN DE VIDA, Y PODEMOS ENFRENTAR CADA DÍA CON ESPERANZA Y AMOR.
+JESÚS ES Y SIEMPRE SERÁ EL ALIMENTO QUE FORTALECE Y REENCAUSA TODA VIDA.
+LA TUYA TAMBIÉN!!!.

@@ -1,0 +1,10 @@
+---
+titulo: "Santísima Virgen"
+fecha: "2023-09-25"
+tema: "Santísima Virgen"
+autor: "Hermandad del Sagrado Corazón de Jesús"
+destacado: false
+---
+
+SANTÍSIMA VIRGEN
+lA SANTÍSIMA VIRGEN MARÍA ES LA MÁS SANTA DE TODAS LAS CRIATURAS, LLENA DE GRACIA Y VIRTUDES,CONCEBIDA SIN PECADO ORIGINAL.QUE ES MADRE DE DIOS Y MADRE NUESTRA.Y ESTÁ EN EL CIELO EN CUERPO Y ALMA.
