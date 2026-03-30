@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Preview — Blog Tío Andrés</title>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet"/>
+<style>
+:root {
+  --color-bg: #FAF6F0;
+  --color-bg-alt: #F2EBE0;
+  --color-text: #3B2E24;
+  --color-text-muted: #7A6B5D;
+  --color-accent: #8B1A1A;
+  --color-accent-light: #C4A265;
+  --color-border: #E0D5C5;
+  --color-gold: #B8963E;
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-body: 'Source Sans 3', -apple-system, sans-serif;
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { font-size: 18px; }
+body {
+  font-family: var(--font-body);
+  font-weight: 300;
+  color: var(--color-text);
+  background: var(--color-bg);
+  line-height: 1.8;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.site-header {
+  text-align: center;
+  padding: 3rem 1rem 1.5rem;
+  border-bottom: 1px solid var(--color-border);
+}
+.site-header a { text-decoration: none; color: inherit; }
+.site-consecrated {
+  font-size: 0.72rem;
+  font-weight: 400;
+  color: var(--color-gold);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  margin-bottom: 0.4rem;
+}
+.site-title {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 600;
+  color: var(--color-accent);
+  letter-spacing: 0.02em;
+  margin-bottom: 0.25rem;
+}
+.site-subtitle {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-weight: 400;
+  font-style: italic;
+  color: var(--color-text-muted);
+}
+.ornament {
+  display: block;
+  text-align: center;
+  color: var(--color-accent-light);
+  font-size: 1.4rem;
+  margin: 1.5rem 0;
+  opacity: 0.6;
+}
+main {
+  flex: 1;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem;
+  width: 100%;
+}
+.tabs {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+.tab {
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  padding: 0.4rem 1.2rem;
+  border: 1px solid var(--color-border);
+  background: transparent;
+  color: var(--color-text-muted);
+  cursor: pointer;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  transition: all 0.3s;
+}
+.tab.active {
+  background: var(--color-accent);
+  color: #FAF6F0;
+  border-color: var(--color-accent);
+}
+.view { display: none; }
+.view.active { display: block; }
+.reflexiones-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.reflexion-card {
+  border-left: 3px solid var(--color-accent-light);
+  padding: 1rem 1.5rem;
+  transition: border-color 0.3s;
+  cursor: pointer;
+}
+.reflexion-card:hover { border-color: var(--color-accent); }
+.reflexion-card__tema {
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: var(--color-accent);
+  margin-bottom: 0.25rem;
+}
+.reflexion-card__fecha {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+.reflexion-card__extracto {
+  margin-top: 0.5rem;
+  color: var(--color-text-muted);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+.reflexion__header { text-align: center; margin-bottom: 3rem; }
+.reflexion__tema {
+  font-family: var(--font-display);
+  font-size: 2.2rem;
+  font-weight: 600;
+  color: var(--color-accent);
+  margin-bottom: 0.5rem;
+}
+.reflexion__fecha {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+}
+.reflexion__contenido {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 400;
+  line-height: 2;
+}
+.reflexion__contenido p {
+  margin-bottom: 1.5rem;
+  text-align: justify;
+  text-indent: 1.5rem;
+}
+.reflexion__firma { text-align: center; margin-top: 3rem; }
+.reflexion__firma-name {
+  font-family: var(--font-display);
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--color-accent);
+  margin-bottom: 0.1rem;
+}
+.reflexion__firma-hermandad {
+  font-family: var(--font-display);
+  font-style: italic;
+  color: var(--color-accent-light);
+  font-size: 0.9rem;
+}
+.site-footer {
+  text-align: center;
+  padding: 1.5rem 1rem;
+  border-top: 1px solid var(--color-border);
+}
+.footer-name {
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--color-accent);
+  margin-bottom: 0.15rem;
+}
+.footer-hermandad {
+  font-family: var(--font-display);
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--color-accent-light);
+}
+@media (max-width: 600px) {
+  html { font-size: 16px; }
+  .site-title { font-size: 1.6rem; }
+  .reflexion__tema { font-size: 1.8rem; }
+}
+</style>
+</head>
+<body>
+  <header class="site-header">
+    <a href="#">
+      <p class="site-consecrated">CONSAGRADO AL SAGRADO CORAZÓN DE JESÚS</p>
+      <h1 class="site-title">Andrés de la Rosa Sánchez</h1>
+      <p class="site-subtitle">Reflexiones diarias de fe, esperanza y amor</p>
+    </a>
+  </header>
+
+  <span class="ornament">✝</span>
+
+  <main>
+    <div class="tabs">
+      <button class="tab active" onclick="showView('list')">Inicio</button>
+      <button class="tab" onclick="showView('single')">Reflexión</button>
+    </div>
+
+    <div id="list-view" class="view active">
+      <ul class="reflexiones-list">
+        <li class="reflexion-card" onclick="showView('single')">
+          <p class="reflexion-card__tema">La Humildad</p>
+          <p class="reflexion-card__fecha">Sábado, 28 de marzo de 2026</p>
+          <p class="reflexion-card__extracto">Ten en cuenta que descendí a la tierra para servir y no para ser servido. Nací en un humilde pesebre; mi madre me calentó en las llamas de amor…</p>
+        </li>
+        <li class="reflexion-card">
+          <p class="reflexion-card__tema">La Fe</p>
+          <p class="reflexion-card__fecha">Viernes, 27 de marzo de 2026</p>
+          <p class="reflexion-card__extracto">La fe es la certeza de lo que se espera, la convicción de lo que no se ve. Bienaventurados los que creen sin haber visto…</p>
+        </li>
+        <li class="reflexion-card">
+          <p class="reflexion-card__tema">El Amor al Prójimo</p>
+          <p class="reflexion-card__fecha">Jueves, 26 de marzo de 2026</p>
+          <p class="reflexion-card__extracto">Amarás a tu prójimo como a ti mismo. No hay mandamiento mayor que este…</p>
+        </li>
+        <li class="reflexion-card">
+          <p class="reflexion-card__tema">La Paciencia</p>
+          <p class="reflexion-card__fecha">Miércoles, 25 de marzo de 2026</p>
+          <p class="reflexion-card__extracto">Todo tiene su tiempo, y todo lo que se quiere debajo del cielo tiene su hora…</p>
+        </li>
+      </ul>
+    </div>
+
+    <div id="single-view" class="view">
+      <article class="reflexion">
+        <header class="reflexion__header">
+          <h2 class="reflexion__tema">La Humildad</h2>
+          <p class="reflexion__fecha">Sábado, 28 de marzo de 2026</p>
+        </header>
+
+        <span class="ornament">❦</span>
+
+        <div class="reflexion__contenido">
+          <p>Ten en cuenta que descendí a la tierra para servir y no para ser servido. Nací en un humilde pesebre; mi madre me calentó en las llamas de amor de su inmaculado corazón. Fui el humilde hijo de una sencilla aldeana y de un carpintero.</p>
+          <p>No busques los primeros puestos; recuerda que quien se humilla será ensalzado, y quien se ensalce será humillado; por lo tanto, pasa desapercibido a los ojos de los hombres, jamás te enorgullezcas ni te vanaglories de los dones y talentos que te he concedido, todo lo debes poner libremente para el servicio de tus hermanos.</p>
+        </div>
+
+        <div class="reflexion__firma">
+          <p class="reflexion__firma-name">Lic. Andrés de la Rosa Sánchez</p>
+          <p class="reflexion__firma-hermandad">Hermandad del Sagrado Corazón de Jesús</p>
+        </div>
+
+        <span class="ornament">✝</span>
+
+        <div style="text-align: center; margin-top: 2rem;">
+          <a href="#" onclick="showView('list'); return false;" style="color: var(--color-text-muted); font-size: 0.85rem; text-decoration: none;">
+            ← Volver a las reflexiones
+          </a>
+        </div>
+      </article>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p class="footer-name">Lic. Andrés de la Rosa Sánchez</p>
+    <p class="footer-hermandad">Hermandad del Sagrado Corazón de Jesús</p>
+  </footer>
+
+  <script>
+  function showView(view) {
+    document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    document.getElementById(view + '-view').classList.add('active');
+    document.querySelector('.tab[onclick*="' + view + '"]').classList.add('active');
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+  </script>
+</body>
+</html>

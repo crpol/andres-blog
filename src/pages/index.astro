@@ -1,0 +1,35 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const reflexiones = (await getCollection('reflexiones'))
+  .sort((a, b) => new Date(b.data.fecha).getTime() - new Date(a.data.fecha).getTime());
+
+function formatFecha(fecha: string): string {
+  return new Date(fecha + 'T12:00:00').toLocaleDateString('es-ES', {
+    weekday: 'long',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+  });
+}
+
+function extracto(body: string): string {
+  const clean = body.replace(/^---[\s\S]*?---/, '').trim();
+  return clean.slice(0, 150).trim() + '…';
+}
+---
+
+<Base>
+  <ul class="reflexiones-list">
+    {reflexiones.map((r) => (
+      <li class="reflexion-card">
+        <a href={`/reflexion/${r.id}`}>
+          <p class="reflexion-card__tema">{r.data.tema || r.data.titulo}</p>
+          <p class="reflexion-card__fecha">{formatFecha(r.data.fecha)}</p>
+          <p class="reflexion-card__extracto">{extracto(r.body || '')}</p>
+        </a>
+      </li>
+    ))}
+  </ul>
+</Base>

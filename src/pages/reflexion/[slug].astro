@@ -1,0 +1,52 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const reflexiones = await getCollection('reflexiones');
+  return reflexiones.map((r) => ({
+    params: { slug: r.id },
+    props: { reflexion: r },
+  }));
+}
+
+const { reflexion } = Astro.props;
+const { Content } = await render(reflexion);
+
+function formatFecha(fecha: string): string {
+  return new Date(fecha + 'T12:00:00').toLocaleDateString('es-ES', {
+    weekday: 'long',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+  });
+}
+---
+
+<Base title={reflexion.data.tema || reflexion.data.titulo}>
+  <article class="reflexion">
+    <header class="reflexion__header">
+      <h2 class="reflexion__tema">{reflexion.data.tema || reflexion.data.titulo}</h2>
+      <p class="reflexion__fecha">{formatFecha(reflexion.data.fecha)}</p>
+    </header>
+
+    <span class="ornament">❦</span>
+
+    <div class="reflexion__contenido">
+      <Content />
+    </div>
+
+    <div class="reflexion__firma">
+      <p class="reflexion__firma-name">Lic. Andrés de la Rosa Sánchez</p>
+      <p class="reflexion__firma-hermandad">Hermandad del Sagrado Corazón de Jesús</p>
+    </div>
+
+    <span class="ornament">✝</span>
+
+    <div style="text-align: center; margin-top: 2rem;">
+      <a href="/" style="color: var(--color-text-muted); font-size: 0.85rem; text-decoration: none;">
+        ← Volver a las reflexiones
+      </a>
+    </div>
+  </article>
+</Base>

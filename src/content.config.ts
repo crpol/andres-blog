@@ -1,0 +1,15 @@
+import { defineCollection, z } from 'astro:content';
+
+const reflexiones = defineCollection({
+  type: 'content',
+  schema: z.object({
+    titulo: z.string(),
+    fecha: z.string(), // YYYY-MM-DD
+    tema: z.string().optional(), // e.g. "La Humildad", "La Fe", "El Amor"
+    cita: z.string().optional(), // Cita bíblica referenciada
+    autor: z.string().default('Hermandad del Sagrado Corazón de Jesús'),
+    destacado: z.boolean().default(false),
+  }),
+});
+
+export const collections = { reflexiones };
