@@ -8,7 +8,7 @@ const reflexiones = defineCollection({
     tema: z.string().optional(), // e.g. "La Humildad", "La Fe", "El Amor"
     cita: z.string().optional(), // Cita bíblica referenciada
     imagen: z.string().optional(), // e.g. "/images/reflexiones/2026-03-20.webp"
-    autor: z.string().default('Hermandad del Sagrado Corazón de Jesús'),
+    autor: z.string().default('CONSAGRADO AL CORAZÓN DE JESÚS'),
     destacado: z.boolean().default(false),
   }),
 });
