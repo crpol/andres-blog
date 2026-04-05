@@ -2,7 +2,7 @@
 titulo: "Porqué Consagrarse Al Corazón De Jesús"
 fecha: "2024-02-06"
 tema: "Porqué Consagrarse Al Corazón De Jesús"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

@@ -2,7 +2,7 @@
 titulo: "El Camino Del Amor Y La Justicia,Lleva A Dios"
 fecha: "2024-11-21"
 tema: "El Camino Del Amor Y La Justicia,Lleva A Dios"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

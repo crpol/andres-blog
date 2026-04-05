@@ -2,7 +2,7 @@
 titulo: "Visitemos, A Jesús Sacramentado"
 fecha: "2025-05-08"
 tema: "Visitemos, A Jesús Sacramentado"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

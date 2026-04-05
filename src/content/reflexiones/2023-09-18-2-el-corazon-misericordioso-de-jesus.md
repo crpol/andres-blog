@@ -2,7 +2,7 @@
 titulo: "El Corazón Misericordioso De Jesús"
 fecha: "2023-09-18"
 tema: "El Corazón Misericordioso De Jesús"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

@@ -2,7 +2,7 @@
 titulo: "Ei Aroma De Su Corazón"
 fecha: "2024-01-09"
 tema: "Ei Aroma De Su Corazón"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

@@ -2,7 +2,7 @@
 titulo: "Promesas De Jesús"
 fecha: "2025-08-06"
 tema: "Promesas De Jesús"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

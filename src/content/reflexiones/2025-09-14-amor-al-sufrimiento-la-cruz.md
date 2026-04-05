@@ -2,7 +2,7 @@
 titulo: "Amor Al Sufrimiento, La Cruz"
 fecha: "2025-09-14"
 tema: "Amor Al Sufrimiento, La Cruz"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

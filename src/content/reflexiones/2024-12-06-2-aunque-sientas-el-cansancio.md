@@ -2,7 +2,7 @@
 titulo: "Aunque Sientas El Cansancio;"
 fecha: "2024-12-06"
 tema: "Aunque Sientas El Cansancio;"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

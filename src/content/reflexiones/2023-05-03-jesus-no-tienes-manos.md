@@ -2,7 +2,7 @@
 titulo: "Jesús, No Tienes Manos"
 fecha: "2023-05-03"
 tema: "Jesús, No Tienes Manos"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

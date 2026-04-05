@@ -2,7 +2,7 @@
 titulo: "14 De Febrero Día Del Amor"
 fecha: "2026-02-14"
 tema: "14 De Febrero Día Del Amor"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

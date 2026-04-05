@@ -2,7 +2,7 @@
 titulo: "Jesús, Nosotros Somos Tu Evangelio"
 fecha: "2023-04-24"
 tema: "Jesús, Nosotros Somos Tu Evangelio"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

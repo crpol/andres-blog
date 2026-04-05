@@ -2,7 +2,7 @@
 titulo: "La Presentación Del Señor"
 fecha: "2025-02-02"
 tema: "La Presentación Del Señor"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

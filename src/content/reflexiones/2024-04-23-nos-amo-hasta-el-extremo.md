@@ -2,7 +2,7 @@
 titulo: "Nos Amó Hasta El Extremo"
 fecha: "2024-04-23"
 tema: "Nos Amó Hasta El Extremo"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

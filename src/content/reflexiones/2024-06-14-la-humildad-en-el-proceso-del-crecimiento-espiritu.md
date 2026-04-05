@@ -2,7 +2,7 @@
 titulo: "La Humildad En El Proceso Del Crecimiento Espiritual"
 fecha: "2024-06-14"
 tema: "La Humildad En El Proceso Del Crecimiento Espiritual"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

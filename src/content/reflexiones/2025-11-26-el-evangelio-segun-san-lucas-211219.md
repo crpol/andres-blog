@@ -2,7 +2,7 @@
 titulo: "El Evangelio Según San Lucas 21,12_19"
 fecha: "2025-11-26"
 tema: "El Evangelio Según San Lucas 21,12_19"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

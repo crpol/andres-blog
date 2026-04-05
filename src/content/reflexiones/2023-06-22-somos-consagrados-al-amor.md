@@ -2,7 +2,7 @@
 titulo: "Somos Consagrados Al Amor"
 fecha: "2023-06-22"
 tema: "Somos Consagrados Al Amor"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

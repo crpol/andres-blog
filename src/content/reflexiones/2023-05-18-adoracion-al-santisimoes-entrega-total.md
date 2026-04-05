@@ -2,7 +2,7 @@
 titulo: "Adoración Al Santísimo,Es Entrega Total"
 fecha: "2023-05-18"
 tema: "Adoración Al Santísimo,Es Entrega Total"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

@@ -2,7 +2,7 @@
 titulo: "Jesús, Pan De Vida Eterna"
 fecha: "2025-05-07"
 tema: "Jesús, Pan De Vida Eterna"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

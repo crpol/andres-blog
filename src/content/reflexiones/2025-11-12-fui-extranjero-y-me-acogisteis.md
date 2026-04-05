@@ -2,7 +2,7 @@
 titulo: "Fuí Extranjero Y Me Acogisteis"
 fecha: "2025-11-12"
 tema: "Fuí Extranjero Y Me Acogisteis"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

@@ -2,7 +2,7 @@
 titulo: "Sanar Los Males Con El Corazón De Jesús"
 fecha: "2024-03-20"
 tema: "Sanar Los Males Con El Corazón De Jesús"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

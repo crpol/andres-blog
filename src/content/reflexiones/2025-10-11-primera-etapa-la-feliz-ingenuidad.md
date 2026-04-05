@@ -2,7 +2,7 @@
 titulo: "Primera Etapa: La Feliz Ingenuidad"
 fecha: "2025-10-11"
 tema: "Primera Etapa: La Feliz Ingenuidad"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

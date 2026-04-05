@@ -2,7 +2,7 @@
 titulo: "Tenemos Alma Inmortal"
 fecha: "2025-08-22"
 tema: "Tenemos Alma Inmortal"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

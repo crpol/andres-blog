@@ -2,7 +2,7 @@
 titulo: "Adviento Y Algo Más"
 fecha: "2025-12-04"
 tema: "Adviento Y Algo Más"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

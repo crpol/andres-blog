@@ -2,7 +2,7 @@
 titulo: "Dos Libros Para La Formación De La Hermandad"
 fecha: "2024-04-04"
 tema: "Dos Libros Para La Formación De La Hermandad"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

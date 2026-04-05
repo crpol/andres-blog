@@ -2,7 +2,7 @@
 titulo: "Jesús Vino A Arrojar Fuego En Esta Tierra Que El Transformó"
 fecha: "2023-12-15"
 tema: "Jesús Vino A Arrojar Fuego En Esta Tierra Que El Transformó"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

@@ -2,7 +2,7 @@
 titulo: "Sábado Santo, Estamos Invitados Al Silencio"
 fecha: "2025-04-19"
 tema: "Sábado Santo, Estamos Invitados Al Silencio"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

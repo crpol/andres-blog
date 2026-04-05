@@ -2,7 +2,7 @@
 titulo: "El Árbol De La Vida Es La Cruz"
 fecha: "2025-10-07"
 tema: "El Árbol De La Vida Es La Cruz"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

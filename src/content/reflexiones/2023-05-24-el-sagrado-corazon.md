@@ -2,7 +2,7 @@
 titulo: "El Sagrado Corazón"
 fecha: "2023-05-24"
 tema: "El Sagrado Corazón"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

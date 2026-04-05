@@ -2,7 +2,7 @@
 titulo: "Santísima Virgen"
 fecha: "2023-09-25"
 tema: "Santísima Virgen"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

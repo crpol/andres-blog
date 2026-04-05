@@ -2,7 +2,7 @@
 titulo: "Ei Amor,No Nos Cansemos De Predicar El Amor"
 fecha: "2025-08-04"
 tema: "Ei Amor,No Nos Cansemos De Predicar El Amor"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

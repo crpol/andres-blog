@@ -2,7 +2,7 @@
 titulo: "Devoción Al Sagrado Corazón De Jesús"
 fecha: "2024-01-22"
 tema: "Devoción Al Sagrado Corazón De Jesús"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

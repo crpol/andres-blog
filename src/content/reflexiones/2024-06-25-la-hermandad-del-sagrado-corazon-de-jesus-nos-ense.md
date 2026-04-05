@@ -2,7 +2,7 @@
 titulo: "La Hermandad Del Sagrado Corazón De Jesús Nos Enseña Acoger"
 fecha: "2024-06-25"
 tema: "La Hermandad Del Sagrado Corazón De Jesús Nos Enseña Acoger"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

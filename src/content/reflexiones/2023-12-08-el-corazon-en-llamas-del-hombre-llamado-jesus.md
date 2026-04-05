@@ -2,7 +2,7 @@
 titulo: "El Corazón En Llamas Del Hombre Llamado Jesús"
 fecha: "2023-12-08"
 tema: "El Corazón En Llamas Del Hombre Llamado Jesús"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

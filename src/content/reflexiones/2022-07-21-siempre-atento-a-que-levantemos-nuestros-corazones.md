@@ -2,7 +2,7 @@
 titulo: "Siempre Atento A Que Levantemos Nuestros Corazones"
 fecha: "2022-07-21"
 tema: "Siempre Atento A Que Levantemos Nuestros Corazones"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

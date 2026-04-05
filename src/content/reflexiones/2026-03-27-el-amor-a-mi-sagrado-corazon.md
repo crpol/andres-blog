@@ -2,7 +2,7 @@
 titulo: "El Amor A Mi Sagrado Corazón"
 fecha: "2026-03-27"
 tema: "El Amor A Mi Sagrado Corazón"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

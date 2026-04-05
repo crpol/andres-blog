@@ -2,7 +2,7 @@
 titulo: "Tercera Etapa: La Experiencia De La Fe"
 fecha: "2025-10-13"
 tema: "Tercera Etapa: La Experiencia De La Fe"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

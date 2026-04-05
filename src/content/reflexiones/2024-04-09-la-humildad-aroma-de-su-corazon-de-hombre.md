@@ -2,7 +2,7 @@
 titulo: "La Humildad Aroma De Su Corazón De Hombre"
 fecha: "2024-04-09"
 tema: "La Humildad Aroma De Su Corazón De Hombre"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

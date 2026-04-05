@@ -2,7 +2,7 @@
 titulo: "Nuestro Primer Derecho Es Nacer"
 fecha: "2025-07-26"
 tema: "Nuestro Primer Derecho Es Nacer"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

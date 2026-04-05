@@ -2,7 +2,7 @@
 titulo: "Noviembre Mes De La Familia"
 fecha: "2023-11-01"
 tema: "Noviembre Mes De La Familia"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

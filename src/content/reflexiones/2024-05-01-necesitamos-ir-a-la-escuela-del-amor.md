@@ -2,7 +2,7 @@
 titulo: "Necesitamos Ir A La 'Escuela Del Amor"
 fecha: "2024-05-01"
 tema: "Necesitamos Ir A La 'Escuela Del Amor"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

@@ -2,7 +2,7 @@
 titulo: "Origen De La Expresión 'Comunión Reparadora"
 fecha: "2024-01-19"
 tema: "Origen De La Expresión 'Comunión Reparadora"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

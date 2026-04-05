@@ -2,7 +2,7 @@
 titulo: "Hoy Viernes Primero De Abril"
 fecha: "2025-04-04"
 tema: "Hoy Viernes Primero De Abril"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

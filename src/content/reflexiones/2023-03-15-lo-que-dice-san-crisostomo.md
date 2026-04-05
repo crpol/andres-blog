@@ -2,7 +2,7 @@
 titulo: "Lo Que Dice San Crisóstomo"
 fecha: "2023-03-15"
 tema: "Lo Que Dice San Crisóstomo"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

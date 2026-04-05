@@ -2,7 +2,7 @@
 titulo: "Reflexión Final"
 fecha: "2025-10-20"
 tema: "Reflexión Final"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

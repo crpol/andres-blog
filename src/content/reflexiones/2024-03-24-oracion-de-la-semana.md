@@ -2,7 +2,7 @@
 titulo: "Oración De La Semana"
 fecha: "2024-03-24"
 tema: "Oración De La Semana"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

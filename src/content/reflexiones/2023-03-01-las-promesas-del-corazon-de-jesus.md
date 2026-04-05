@@ -2,7 +2,7 @@
 titulo: "Las Promesas Del Corazón De Jesús"
 fecha: "2023-03-01"
 tema: "Las Promesas Del Corazón De Jesús"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

@@ -2,7 +2,7 @@
 titulo: "Luz En El Camino"
 fecha: "2023-02-24"
 tema: "Luz En El Camino"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

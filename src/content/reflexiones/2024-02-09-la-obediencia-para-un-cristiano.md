@@ -2,7 +2,7 @@
 titulo: "La Obediencia Para Un Cristiano"
 fecha: "2024-02-09"
 tema: "La Obediencia Para Un Cristiano"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

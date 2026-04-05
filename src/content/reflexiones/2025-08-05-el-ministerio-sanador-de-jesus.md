@@ -2,7 +2,7 @@
 titulo: "El Ministerio Sanador De Jesús"
 fecha: "2025-08-05"
 tema: "El Ministerio Sanador De Jesús"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

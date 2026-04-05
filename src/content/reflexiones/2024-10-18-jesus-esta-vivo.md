@@ -2,7 +2,7 @@
 titulo: "Jesús Está Vivo"
 fecha: "2024-10-18"
 tema: "Jesús Está Vivo"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

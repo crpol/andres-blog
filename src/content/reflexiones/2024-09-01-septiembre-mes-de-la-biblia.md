@@ -2,7 +2,7 @@
 titulo: "Septiembre Mes De La Biblia"
 fecha: "2024-09-01"
 tema: "Septiembre Mes De La Biblia"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

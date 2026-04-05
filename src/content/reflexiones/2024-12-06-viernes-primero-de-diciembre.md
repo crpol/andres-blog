@@ -2,7 +2,7 @@
 titulo: "Viernes Primero De Diciembre"
 fecha: "2024-12-06"
 tema: "Viernes Primero De Diciembre"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

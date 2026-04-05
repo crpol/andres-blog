@@ -2,7 +2,7 @@
 titulo: "El Secreto De La Felicidad Está En El Poder De La Oración"
 fecha: "2025-08-12"
 tema: "El Secreto De La Felicidad Está En El Poder De La Oración"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

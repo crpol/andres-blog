@@ -2,7 +2,7 @@
 titulo: "La Solidaridad"
 fecha: "2026-02-20"
 tema: "La Solidaridad"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

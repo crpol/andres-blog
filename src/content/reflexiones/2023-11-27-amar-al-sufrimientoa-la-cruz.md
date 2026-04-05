@@ -2,7 +2,7 @@
 titulo: "Amar Al Sufrimiento,A La Cruz"
 fecha: "2023-11-27"
 tema: "Amar Al Sufrimiento,A La Cruz"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

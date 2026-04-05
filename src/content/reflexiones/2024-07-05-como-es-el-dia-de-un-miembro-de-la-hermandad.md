@@ -2,7 +2,7 @@
 titulo: "Como Es El Día De Un Miembro De La Hermandad?"
 fecha: "2024-07-05"
 tema: "Como Es El Día De Un Miembro De La Hermandad?"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

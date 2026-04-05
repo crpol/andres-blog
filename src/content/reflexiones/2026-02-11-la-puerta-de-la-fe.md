@@ -2,7 +2,7 @@
 titulo: "La Puerta De La Fe"
 fecha: "2026-02-11"
 tema: "La Puerta De La Fe"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

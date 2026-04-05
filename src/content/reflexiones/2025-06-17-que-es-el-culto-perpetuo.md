@@ -2,7 +2,7 @@
 titulo: "Qué Es El Culto Perpetuo?"
 fecha: "2025-06-17"
 tema: "Qué Es El Culto Perpetuo?"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

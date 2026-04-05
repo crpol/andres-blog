@@ -2,7 +2,7 @@
 titulo: "Jesús El Amado"
 fecha: "2024-01-12"
 tema: "Jesús El Amado"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

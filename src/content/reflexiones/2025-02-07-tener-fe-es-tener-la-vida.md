@@ -2,7 +2,7 @@
 titulo: "Tener Fe Es Tener La Vida"
 fecha: "2025-02-07"
 tema: "Tener Fe Es Tener La Vida"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

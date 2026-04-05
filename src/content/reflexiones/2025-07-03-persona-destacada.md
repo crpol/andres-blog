@@ -2,7 +2,7 @@
 titulo: "Persona Destacada"
 fecha: "2025-07-03"
 tema: "Persona Destacada"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

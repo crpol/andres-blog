@@ -2,7 +2,7 @@
 titulo: "Estamos Educando Para Transformar Nuestra Sociedad"
 fecha: "2025-10-23"
 tema: "Estamos Educando Para Transformar Nuestra Sociedad"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

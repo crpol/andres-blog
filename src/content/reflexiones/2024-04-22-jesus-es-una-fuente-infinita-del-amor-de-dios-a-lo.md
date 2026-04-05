@@ -2,7 +2,7 @@
 titulo: "Jesús Es Una Fuente Infinita Del Amor De Dios A Los Hombres"
 fecha: "2024-04-22"
 tema: "Jesús Es Una Fuente Infinita Del Amor De Dios A Los Hombres"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

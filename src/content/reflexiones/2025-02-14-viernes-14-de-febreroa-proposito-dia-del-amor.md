@@ -2,7 +2,7 @@
 titulo: "Viernes 14 De Febrero,A Propósito Día Del Amor"
 fecha: "2025-02-14"
 tema: "Viernes 14 De Febrero,A Propósito Día Del Amor"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

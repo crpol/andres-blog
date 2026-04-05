@@ -2,7 +2,7 @@
 titulo: "Qué Es El Orden Sacerdotal?"
 fecha: "2025-04-17"
 tema: "Qué Es El Orden Sacerdotal?"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

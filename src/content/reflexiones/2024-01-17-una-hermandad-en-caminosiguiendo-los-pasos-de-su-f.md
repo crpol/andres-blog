@@ -2,7 +2,7 @@
 titulo: "Una Hermandad En Camino,Siguiendo Los Pasos De Su Fundador"
 fecha: "2024-01-17"
 tema: "Una Hermandad En Camino,Siguiendo Los Pasos De Su Fundador"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

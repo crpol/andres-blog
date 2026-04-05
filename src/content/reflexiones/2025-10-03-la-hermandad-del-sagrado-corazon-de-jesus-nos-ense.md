@@ -2,7 +2,7 @@
 titulo: "La Hermandad Del Sagrado Corazón De Jesús Nos Enseña A Orar"
 fecha: "2025-10-03"
 tema: "La Hermandad Del Sagrado Corazón De Jesús Nos Enseña A Orar"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

@@ -2,7 +2,7 @@
 titulo: "La Llama De Fuego Agarrada A La Zarza"
 fecha: "2024-01-29"
 tema: "La Llama De Fuego Agarrada A La Zarza"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

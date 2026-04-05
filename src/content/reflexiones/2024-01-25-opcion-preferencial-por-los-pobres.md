@@ -2,7 +2,7 @@
 titulo: "Opción Preferencial Por Los Pobres"
 fecha: "2024-01-25"
 tema: "Opción Preferencial Por Los Pobres"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

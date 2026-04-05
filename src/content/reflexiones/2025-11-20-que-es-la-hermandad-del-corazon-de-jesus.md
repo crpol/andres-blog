@@ -2,7 +2,7 @@
 titulo: "Qué Es La Hermandad Del Corazón De Jesús"
 fecha: "2025-11-20"
 tema: "Qué Es La Hermandad Del Corazón De Jesús"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

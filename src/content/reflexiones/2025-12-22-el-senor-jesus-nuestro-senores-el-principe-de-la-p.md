@@ -2,7 +2,7 @@
 titulo: "El Señor Jesús, Nuestro Señor,Es El Príncipe De La Paz"
 fecha: "2025-12-22"
 tema: "El Señor Jesús, Nuestro Señor,Es El Príncipe De La Paz"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

@@ -2,7 +2,7 @@
 titulo: "Invocar Siempre Y En Todo Momento El Santo Nombre De Jesús"
 fecha: "2023-11-17"
 tema: "Invocar Siempre Y En Todo Momento El Santo Nombre De Jesús"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

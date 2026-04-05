@@ -2,7 +2,7 @@
 titulo: "La Confesión En Cuaresma"
 fecha: "2024-02-29"
 tema: "La Confesión En Cuaresma"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

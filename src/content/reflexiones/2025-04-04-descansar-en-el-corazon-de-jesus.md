@@ -2,7 +2,7 @@
 titulo: "Descansar En El Corazón De Jesús"
 fecha: "2025-04-04"
 tema: "Descansar En El Corazón De Jesús"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

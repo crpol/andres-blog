@@ -2,7 +2,7 @@
 titulo: "En Los Momentos Actuales,De Muchos Sentimientos Encontrados"
 fecha: "2025-04-16"
 tema: "En Los Momentos Actuales,De Muchos Sentimientos Encontrados"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

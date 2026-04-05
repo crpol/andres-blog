@@ -2,7 +2,7 @@
 titulo: "El Amor A La Naturaleza,Nosotros Formamos Parte De Ella"
 fecha: "2025-08-08"
 tema: "El Amor A La Naturaleza,Nosotros Formamos Parte De Ella"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

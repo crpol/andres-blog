@@ -2,7 +2,7 @@
 titulo: "Jesús Tiene Un Corazón De Oro"
 fecha: "2024-01-10"
 tema: "Jesús Tiene Un Corazón De Oro"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

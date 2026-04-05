@@ -2,7 +2,7 @@
 titulo: "La Vida En Cristo"
 fecha: "2025-02-04"
 tema: "La Vida En Cristo"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

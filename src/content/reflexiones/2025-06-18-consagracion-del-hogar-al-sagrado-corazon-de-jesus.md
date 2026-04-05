@@ -2,7 +2,7 @@
 titulo: "Consagración Del Hogar Al Sagrado Corazón De Jesús"
 fecha: "2025-06-18"
 tema: "Consagración Del Hogar Al Sagrado Corazón De Jesús"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

@@ -2,7 +2,7 @@
 titulo: "Se Dice Que La Humildad Es La Verdad"
 fecha: "2023-07-08"
 tema: "Se Dice Que La Humildad Es La Verdad"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

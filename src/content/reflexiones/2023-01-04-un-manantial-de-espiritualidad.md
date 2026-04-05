@@ -2,7 +2,7 @@
 titulo: "Un Manantial De Espiritualidad"
 fecha: "2023-01-04"
 tema: "Un Manantial De Espiritualidad"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

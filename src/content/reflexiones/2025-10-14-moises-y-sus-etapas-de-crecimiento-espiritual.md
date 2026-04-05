@@ -2,7 +2,7 @@
 titulo: "Moisés Y Sus Etapas De Crecimiento Espiritual"
 fecha: "2025-10-14"
 tema: "Moisés Y Sus Etapas De Crecimiento Espiritual"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

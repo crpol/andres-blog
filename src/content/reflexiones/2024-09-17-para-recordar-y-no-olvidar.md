@@ -2,7 +2,7 @@
 titulo: "Para Recordar Y No Olvidar"
 fecha: "2024-09-17"
 tema: "Para Recordar Y No Olvidar"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

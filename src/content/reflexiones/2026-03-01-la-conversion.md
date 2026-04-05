@@ -2,7 +2,7 @@
 titulo: "La Conversión"
 fecha: "2026-03-01"
 tema: "La Conversión"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

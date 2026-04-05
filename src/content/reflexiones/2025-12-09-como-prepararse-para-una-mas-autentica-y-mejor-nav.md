@@ -2,7 +2,7 @@
 titulo: "Cómo Prepararse Para Una Más Auténtica Y Mejor Navidad?"
 fecha: "2025-12-09"
 tema: "Cómo Prepararse Para Una Más Auténtica Y Mejor Navidad?"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

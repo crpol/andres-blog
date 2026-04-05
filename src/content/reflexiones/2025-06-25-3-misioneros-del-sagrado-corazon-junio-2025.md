@@ -2,7 +2,7 @@
 titulo: "*Misioneros Del Sagrado Corazon, Junio 2025*"
 fecha: "2025-06-25"
 tema: "*Misioneros Del Sagrado Corazon, Junio 2025*"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

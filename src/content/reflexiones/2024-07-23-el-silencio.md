@@ -2,7 +2,7 @@
 titulo: "El Silencio"
 fecha: "2024-07-23"
 tema: "El Silencio"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

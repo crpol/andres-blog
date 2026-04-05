@@ -2,7 +2,7 @@
 titulo: "Oración De Unión Con El Sagrado Corazón"
 fecha: "2024-06-18"
 tema: "Oración De Unión Con El Sagrado Corazón"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

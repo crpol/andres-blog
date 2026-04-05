@@ -2,7 +2,7 @@
 titulo: "Visitar Al Señor Hermosa Costumbre ,"
 fecha: "2023-05-24"
 tema: "Visitar Al Señor Hermosa Costumbre ,"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

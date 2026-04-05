@@ -2,7 +2,7 @@
 titulo: "Jesús Está Vivo Y Vive Entre Nosotros"
 fecha: "2024-08-03"
 tema: "Jesús Está Vivo Y Vive Entre Nosotros"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

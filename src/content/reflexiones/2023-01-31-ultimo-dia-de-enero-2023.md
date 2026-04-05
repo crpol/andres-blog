@@ -2,7 +2,7 @@
 titulo: "Último Dia De Enero 2023"
 fecha: "2023-01-31"
 tema: "Último Dia De Enero 2023"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

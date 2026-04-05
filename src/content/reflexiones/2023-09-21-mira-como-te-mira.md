@@ -2,7 +2,7 @@
 titulo: "Mira Cómo Te Mira"
 fecha: "2023-09-21"
 tema: "Mira Cómo Te Mira"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

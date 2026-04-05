@@ -2,7 +2,7 @@
 titulo: "Excelente Reflexión De Nuestro Monseñor ( Plinio )"
 fecha: "2025-06-20"
 tema: "Excelente Reflexión De Nuestro Monseñor ( Plinio )"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

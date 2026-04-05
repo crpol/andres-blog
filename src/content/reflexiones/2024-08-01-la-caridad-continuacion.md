@@ -2,7 +2,7 @@
 titulo: "La Caridad ( Continuación )"
 fecha: "2024-08-01"
 tema: "La Caridad ( Continuación )"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

@@ -2,7 +2,7 @@
 titulo: "Lo Que Dice San Buenaventura"
 fecha: "2025-07-22"
 tema: "Lo Que Dice San Buenaventura"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

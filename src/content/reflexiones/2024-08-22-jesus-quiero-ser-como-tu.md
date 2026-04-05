@@ -2,7 +2,7 @@
 titulo: "Jesús Quiero Ser Como Tú"
 fecha: "2024-08-22"
 tema: "Jesús Quiero Ser Como Tú"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 

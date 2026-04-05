@@ -2,7 +2,7 @@
 titulo: "En El Corazón De Jesús Encontramos Descanso"
 fecha: "2024-11-07"
 tema: "En El Corazón De Jesús Encontramos Descanso"
-autor: "Hermandad del Sagrado Corazón de Jesús"
+autor: "por Lic. Andrés de la Rosa Sánchez, CONSAGRADO AL CORAZÓN DE JESÚS"
 destacado: false
 ---
 
