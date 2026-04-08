@@ -1,13 +1,14 @@
 import { defineCollection, z } from 'astro:content';
+import { glob } from 'astro/loaders';
 
 const reflexiones = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/*.md', base: './src/content/reflexiones' }),
   schema: z.object({
     titulo: z.string(),
-    fecha: z.string(), // YYYY-MM-DD
-    tema: z.string().optional(), // e.g. "La Humildad", "La Fe", "El Amor"
-    cita: z.string().optional(), // Cita bíblica referenciada
-    imagen: z.string().optional(), // e.g. "/images/reflexiones/2026-03-20.webp"
+    fecha: z.string(),
+    tema: z.string().optional(),
+    cita: z.string().optional(),
+    imagen: z.string().optional(),
     autor: z.string().default('CONSAGRADO AL CORAZÓN DE JESÚS'),
     destacado: z.boolean().default(false),
   }),
