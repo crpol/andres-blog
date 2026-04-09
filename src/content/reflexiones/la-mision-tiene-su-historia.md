@@ -1,10 +1,10 @@
 ---
 titulo: "La misión tiene su historia"
 fecha: "2026-04-09"
-tema: "La misión tiene su historia"
+tema: "La Misión Tiene Su Historia"
 ---
 
-La misión también tiene su historia.
+La Misión También Tiene Su Historia.
 
 Abran las puertas.
 
