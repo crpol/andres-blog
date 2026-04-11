@@ -1,6 +1,6 @@
 ---
 titulo: "Abran más las puertas"
-fecha: "2026-04-09"
+fecha: "2026-04-10"
 tema: "Abran más las puertas"
 ---
 

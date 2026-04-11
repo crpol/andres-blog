@@ -1,6 +1,6 @@
 ---
 titulo: "La misión llega a Antioquía: Pablo y Bernabé"
-fecha: "2026-04-09"
+fecha: "2026-04-11"
 tema: "La misión llega a Antioquía: Pablo y Bernabé"
 ---
 
