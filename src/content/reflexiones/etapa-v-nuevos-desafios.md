@@ -1,7 +1,7 @@
 ---
-titulo: "Etapa V: Nuevos desafíos"
+titulo: "Etapa V: Nuevos Desafíos"
 fecha: "2026-04-13"
-tema: "Etapa V: Nuevos desafíos"
+tema: "Etapa V: Nuevos Desafíos"
 ---
 
 En el año 313 se da un gran cambio. La religión cristiana hasta ese momento marginalizada y perseguida, pasa a ser no solamente una religión permitida sino también protegida por el Emperador de turno, Constantino. Ahora será más fácil ser cristiano. ¿Cuál fue la reacción de los cristianos más fervorosos? Desconfían de ese oportunismo religioso y se van al desierto.
