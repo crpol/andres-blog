@@ -44,6 +44,10 @@ function formatFecha(fecha: string): string {
       </figure>
     ))}
 
+    {reflexion.data.pie_imagenes && (
+      <p class="reflexion__pie-imagenes">{reflexion.data.pie_imagenes}</p>
+    )}
+
     <div class="reflexion__contenido">
       <Content />
     </div>
