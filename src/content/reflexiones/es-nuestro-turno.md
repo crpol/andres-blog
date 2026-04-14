@@ -2,6 +2,9 @@
 titulo: "Es nuestro turno"
 fecha: "2026-04-14"
 tema: "Es nuestro turno"
+imagenes:
+  - "/images/reflexiones/es-nuestro-turno-1.webp"
+  - "/images/reflexiones/es-nuestro-turno-2.webp"
 ---
 
 Hemos visto un poco de historia de la misión desde sus inicios. En este siglo XXI la misión continúa. Es nuestro turno. Nos toca seguir la misión.
