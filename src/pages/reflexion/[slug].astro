@@ -38,6 +38,12 @@ function formatFecha(fecha: string): string {
       </figure>
     )}
 
+    {reflexion.data.imagenes && reflexion.data.imagenes.map((img: string, i: number) => (
+      <figure class="reflexion__imagen">
+        <img src={img} alt={`${reflexion.data.tema || reflexion.data.titulo} ${i + 1}`} />
+      </figure>
+    ))}
+
     <div class="reflexion__contenido">
       <Content />
     </div>
