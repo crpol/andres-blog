@@ -9,7 +9,11 @@ const reflexiones = defineCollection({
     tema: z.string().optional(),
     cita: z.string().optional(),
     imagen: z.string().optional(),
-    imagenes: z.array(z.string()).optional(),
+    imagenes: z.array(z.object({
+      src: z.string(),
+      pie: z.string().optional(),
+    })).optional(),
+    pie_imagenes: z.string().optional(),
     pie_imagenes: z.string().optional(),
     autor: z.string().default('CONSAGRADO AL CORAZÓN DE JESÚS'),
     destacado: z.boolean().default(false),

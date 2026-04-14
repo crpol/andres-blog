@@ -21,12 +21,18 @@ function formatFecha(fecha: string): string {
     day: 'numeric',
   });
 }
+
+function titleCase(str: string): string {
+  return str.toLowerCase().replace(/\b\w/g, c => c.toUpperCase());
+}
+
+const titulo = titleCase(reflexion.data.tema || reflexion.data.titulo);
 ---
 
-<Base title={reflexion.data.tema || reflexion.data.titulo}>
+<Base title={titulo}>
   <article class="reflexion">
     <header class="reflexion__header">
-      <h2 class="reflexion__tema">{reflexion.data.tema || reflexion.data.titulo}</h2>
+      <h2 class="reflexion__tema">{titulo}</h2>
       <p class="reflexion__fecha">{formatFecha(reflexion.data.fecha)}</p>
     </header>
 
@@ -34,15 +40,20 @@ function formatFecha(fecha: string): string {
 
     {reflexion.data.imagen && (
       <figure class="reflexion__imagen">
-        <img src={reflexion.data.imagen} alt={reflexion.data.tema || reflexion.data.titulo} />
+        <img src={reflexion.data.imagen} alt={titulo} />
       </figure>
     )}
 
-    {reflexion.data.imagenes && reflexion.data.imagenes.map((img: string, i: number) => (
-      <figure class="reflexion__imagen">
-        <img src={img} alt={`${reflexion.data.tema || reflexion.data.titulo} ${i + 1}`} />
-      </figure>
-    ))}
+    {reflexion.data.imagenes && (
+      <div class="reflexion__galeria">
+        {reflexion.data.imagenes.map((img: { src: string; pie?: string }) => (
+          <figure class="reflexion__galeria-item">
+            <img src={img.src} alt={img.pie || titulo} />
+            {img.pie && <figcaption>{img.pie}</figcaption>}
+          </figure>
+        ))}
+      </div>
+    )}
 
     {reflexion.data.pie_imagenes && (
       <p class="reflexion__pie-imagenes">{reflexion.data.pie_imagenes}</p>

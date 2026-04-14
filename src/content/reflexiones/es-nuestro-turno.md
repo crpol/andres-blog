@@ -3,9 +3,11 @@ titulo: "Es Nuestro Turno"
 fecha: "2026-04-14"
 tema: "Es Nuestro Turno"
 imagenes:
-  - "/images/reflexiones/PadreFantinoFalco.webp"
-  - "/images/reflexiones/PadreEmilianoTardif.webp"
-pie_imagenes: "Dos estrellas de la misión aquí en República Dominicana. El Padre Fantino y el Padre Emiliano Tardif."
+  - src: "/images/reflexiones/PadreFantinoFalco.webp"
+    pie: "P. Fantino Falco, MSC"
+  - src: "/images/reflexiones/PadreEmilianoTardif.webp"
+    pie: "P. Emiliano Tardif, MSC"
+pie_imagenes: "Dos Estrellas de la Misión aquí en República Dominicana."
 ---
 
 Hemos visto un poco de historia de la misión desde sus inicios. En este siglo XXI la misión continúa. Es nuestro turno. Nos toca seguir la misión.
