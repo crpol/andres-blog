@@ -7,7 +7,7 @@
   --color-bg: #FAF6F0;
   --color-bg-alt: #F2EBE0;
   --color-text: #3B2E24;
-  --color-text-muted: #635545;
+  --color-text-muted: #7A6B5D;
   --color-accent: #8B1A1A;
   --color-accent-light: #C4A265;
   --color-border: #E0D5C5;
@@ -42,7 +42,7 @@ html {
 
 body {
   font-family: var(--font-body);
-  font-weight: 400;
+  font-weight: 300;
   color: var(--color-text);
   background-color: var(--color-bg);
   line-height: 1.8;
@@ -65,7 +65,7 @@ body {
 }
 
 .site-consecrated {
-  font-size: 0.85rem;
+  font-size: 0.72rem;
   font-weight: 400;
   color: var(--color-gold);
   letter-spacing: 0.15em;
@@ -162,7 +162,7 @@ main {
 }
 
 .anio-count {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   color: var(--color-text-muted);
   letter-spacing: 0.05em;
 }
@@ -216,7 +216,7 @@ main {
 }
 
 .reflexion-card__fecha {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   color: var(--color-text-muted);
   text-transform: uppercase;
   letter-spacing: 0.1em;
@@ -225,7 +225,7 @@ main {
 .reflexion-card__extracto {
   margin-top: var(--space-xs);
   color: var(--color-text-muted);
-  font-size: 1.05rem;
+  font-size: 0.95rem;
   line-height: 1.6;
 }
 
@@ -249,7 +249,7 @@ main {
 }
 
 .reflexion__fecha {
-  font-size: 0.95rem;
+  font-size: 0.85rem;
   color: var(--color-text-muted);
   text-transform: uppercase;
   letter-spacing: 0.12em;
@@ -270,7 +270,7 @@ main {
 .reflexion__pie-imagenes {
   text-align: center;
   font-family: var(--font-display);
-  font-size: 1rem;
+  font-size: 0.85rem;
   font-style: italic;
   color: var(--color-text-muted);
   margin-top: calc(var(--space-sm) * -1);
@@ -300,7 +300,7 @@ main {
 
 .reflexion__galeria-item figcaption {
   font-family: var(--font-display);
-  font-size: 1rem;
+  font-size: 0.85rem;
   font-style: italic;
   color: var(--color-text-muted);
   margin-top: var(--space-xs);
@@ -308,7 +308,7 @@ main {
 
 .reflexion__contenido {
   font-family: var(--font-display);
-  font-size: 1.25rem;
+  font-size: 1.15rem;
   font-weight: 400;
   line-height: 2;
   color: var(--color-text);
@@ -378,7 +378,7 @@ main {
 
 .reflexion__firma-name {
   font-family: var(--font-display);
-  font-size: 1.1rem;
+  font-size: 1rem;
   font-weight: 600;
   color: var(--color-accent);
   margin-bottom: 0.1rem;
@@ -388,7 +388,7 @@ main {
   font-family: var(--font-display);
   font-style: italic;
   color: var(--color-accent-light);
-  font-size: 1.05rem;
+  font-size: 0.9rem;
 }
 
 /* --- Footer --- */
@@ -401,7 +401,7 @@ main {
 
 .footer-devotion {
   font-family: var(--font-display);
-  font-size: 1.05rem;
+  font-size: 0.9rem;
   font-style: italic;
   color: var(--color-accent-light);
   letter-spacing: 0.03em;
@@ -410,8 +410,8 @@ main {
 /* --- Responsive --- */
 
 @media (max-width: 600px) {
-  html { font-size: 18px; }
+  html { font-size: 16px; }
   .site-title { font-size: 1.6rem; }
   .reflexion__tema { font-size: 1.8rem; }
-  .reflexion__contenido { font-size: 1.15rem; }
+  .reflexion__contenido { font-size: 1.05rem; }
 }
