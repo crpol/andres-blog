@@ -1,7 +1,7 @@
 ---
-titulo: "Retos de nuestra vida hoy"
+titulo: "Retos de Nuestra Vida Hoy"
 fecha: "2026-04-15"
-tema: "Retos de nuestra vida hoy"
+tema: "Retos de Nuestra Vida Hoy"
 ---
 
 En los momentos actuales la sociedad en general, los medios de comunicación social, las diversiones ilícitas, el ambiente provocativo arrastra una vida en desorden que quiere suplantar al único y verdadero Dios por los ídolos modernos: el dios dinero, el dios placer y el dios poder.
