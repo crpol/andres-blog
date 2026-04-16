@@ -1,7 +1,7 @@
 ---
-titulo: "Retos de nuestra vida hoy (II)"
+titulo: "Retos de Nuestra Vida Hoy (II)"
 fecha: "2026-04-16"
-tema: "Retos de nuestra vida hoy (II)"
+tema: "Retos de Nuestra Vida Hoy (II)"
 imagenes:
   - src: "/images/reflexiones/retos-de-nuestra-vida-hoy-ii-1.webp"
     pie: "Joven en la Hermandad"
