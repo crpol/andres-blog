@@ -2,7 +2,11 @@
 titulo: "Retos de nuestra vida hoy (II)"
 fecha: "2026-04-16"
 tema: "Retos de nuestra vida hoy (II)"
-imagen: "/images/reflexiones/retos-de-nuestra-vida-hoy-ii.webp"
+imagenes:
+  - src: "/images/reflexiones/retos-de-nuestra-vida-hoy-ii-1.webp"
+    pie: "Joven en la Hermandad"
+  - src: "/images/reflexiones/retos-de-nuestra-vida-hoy-ii-2.webp"
+    pie: "Jóvenes en misión"
 ---
 
 Muchos jóvenes caen en el vacío existencial en el camino de la vida, pierden el equilibrio emocional y llegan a lastimosos desenlaces. Las estadísticas de la Europa Occidental, donde mucha gente rebosa de placeres y de bienes materiales, registran por lo menos 25 mil jóvenes al año que caen en un estado depresivo. Con esto no es atemorizar a nadie, pero sí precaver.
