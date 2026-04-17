@@ -1,7 +1,7 @@
 ---
-titulo: "La iglesia en Aparecida nos convoca en misión"
+titulo: "La Iglesia En Aparecida Nos Convoca En Misión"
 fecha: "2026-04-17"
-tema: "La iglesia en Aparecida nos convoca en misión"
+tema: "La Iglesia En Aparecida Nos Convoca En Misión"
 ---
 
 La Iglesia de América Latina, reunida en Aparecida, nos convocó y nos envió de nuevo en misión.
