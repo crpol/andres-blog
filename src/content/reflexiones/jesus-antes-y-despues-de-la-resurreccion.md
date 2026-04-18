@@ -1,7 +1,7 @@
 ---
-titulo: "Jesús, antes y después de la resurrección"
+titulo: "Jesús, Antes y Después de la Resurrección"
 fecha: "2026-04-18"
-tema: "Jesús, antes y después de la resurrección"
+tema: "Jesús, Antes y Después de la Resurrección"
 ---
 
 Por una parte se señala lo distinto que es Jesús resucitado con relación al de antes de su muerte y con respecto a todos los hombres. Su cercanía causa profunda impresión no exenta de cierto miedo.
