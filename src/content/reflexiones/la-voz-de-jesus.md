@@ -1,7 +1,7 @@
 ---
-titulo: "La voz de Jesús"
+titulo: "La Voz De Jesús"
 fecha: "2026-04-20"
-tema: "La voz de Jesús"
+tema: "La Voz De Jesús"
 ---
 
 Escuchemos a Jesús que quiere hablarnos al corazón.
