@@ -1,7 +1,7 @@
 ---
-titulo: "La ausencia de queja"
+titulo: "La Ausencia De Queja"
 fecha: "2026-04-21"
-tema: "La ausencia de queja"
+tema: "La Ausencia De Queja"
 ---
 
 La ausencia de queja indica la madurez espiritual de un ser, da la calidad de fondo de una personalidad que tiene el control de ella misma. La ausencia de queja es el índice de una bella personalidad, de alguien que toma la cosa en serio, que tiene sentido de su responsabilidad, que da testimonio de un dinamismo vital y de una energía contagiosa. Se siente la acción del Espíritu Santo en este ser que evita la queja desarrollando su paciencia, su fidelidad, su perseverancia y el dominio de sí.
