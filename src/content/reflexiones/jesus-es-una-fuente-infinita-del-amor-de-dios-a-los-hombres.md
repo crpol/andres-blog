@@ -1,7 +1,7 @@
 ---
-titulo: "Jesús es una fuente infinita del amor de Dios a los hombres"
+titulo: "Jesús Es Una Fuente Infinita Del Amor De Dios a Los Hombres"
 fecha: "2026-04-22"
-tema: "Jesús es una fuente infinita del amor de Dios a los hombres"
+tema: "Jesús Es Una Fuente Infinita Del Amor De Dios a Los Hombres"
 ---
 
 Jesús es una fuente infinita del amor de Dios a los hombres.
