@@ -1,10 +1,10 @@
 ---
-titulo: "La paz: lo que ella es"
+titulo: "La Paz: Lo Que Ella Es"
 fecha: "2026-04-23"
-tema: "La paz: lo que ella es"
+tema: "La Paz: Lo Que Ella Es"
 ---
 
-La paz es un fruto de la justicia, del amor y de la fraternidad. Ella bebe en la fuente del mismo Cristo.
+La Paz es un fruto de la justicia, del amor y de la fraternidad. Ella bebe en la fuente del mismo Cristo.
 
 En los momentos actuales, ¿qué nos está pasando como sociedad? Un reciente crimen en la ciudad de Santiago un grupo de personas en motores gritando de tras de un chófer hasta matarlo a puñaladas, actuando como bestias humanas llenas de odio y rencor.
 
