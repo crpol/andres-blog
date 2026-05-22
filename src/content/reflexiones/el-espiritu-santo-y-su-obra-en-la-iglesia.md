@@ -1,6 +1,6 @@
 ---
 titulo: "El Espíritu Santo y Su Obra en la Iglesia"
-fecha: "2026-05-21"
+fecha: "2026-05-22"
 tema: "El Espíritu Santo y Su Obra en la Iglesia"
 ---
 
