@@ -1,6 +1,6 @@
 ---
 titulo: "Las 5 Actitudes del Espíritu Santo"
-fecha: "2026-05-22"
+fecha: "2026-05-21"
 tema: "Las 5 Actitudes del Espíritu Santo"
 ---
 
