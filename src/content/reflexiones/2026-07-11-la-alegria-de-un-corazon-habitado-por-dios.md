@@ -1,6 +1,6 @@
 ---
 titulo: "La Alegría de un Corazón Habitado por Dios"
-fecha: "2026-07-10"
+fecha: "2026-07-11"
 tema: "La Alegría de un Corazón Habitado por Dios"
 ---
 
